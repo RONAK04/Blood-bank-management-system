@@ -1,7 +1,7 @@
 # BloodBankOnline
 # microsoft-azure-Project
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
+![dashboard snap](https://iili.io/HgwHTIS.md.png)
 ### Blood Donation 
 ![invoice snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/blooddonation.png?raw=true)
 ### Blood Request
